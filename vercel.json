@@ -8,7 +8,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "https://github-readme-stats-shifeiti.vercel.app"
+      "destination": "https://github-readme-stats-shifeiti.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&&show_owner=true"
     }
   ]
 }
